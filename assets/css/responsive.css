@@ -1,0 +1,941 @@
+@media only screen and (max-width:1000px) {
+    img.logo {
+        position: relative;
+        margin-left: 15px;
+        width: 290px;
+        height: auto;
+    }
+
+    .navbar-toggler {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    .menu-item {
+        margin-right: 5px;
+    }
+
+    .menu-toggle {
+        font-size: 13px;
+    }
+
+    .dropdown-menu {
+        font-size: 12px;
+    }
+
+    .ms-4 {
+        margin-left: 3rem!important;
+    }
+
+    div.ms-4.tabs__sidebar {
+        margin-left: 2.3rem!important;
+    }
+
+    button.w-100 {
+        width: 105%!important;
+        color: #404040;
+        font-size: 13px;
+        height: 40px;
+    }
+
+    .title1 {
+        margin-top: 25px!important;
+        margin-left: 47px;
+        font-size: 25px
+    }
+
+    .col-md-12.border {
+        margin-top: 2px;
+        margin-left: 4px;
+        width: 655px;
+    }
+
+    .title2 {
+        font-size: 25px;
+        margin-left: 8px!important;
+    }
+
+    input.w-100 {
+        margin-left: -12px!important;
+        width: 115%!important;
+        height: 30%!important;
+    }
+
+    div.w-100 {
+        margin-left: -12px!important;
+        width: 115%!important;
+        height: 30%!important;
+    }
+
+    span.ms-2 {
+        margin-top: 5px;
+        margin-left: 8px!important;
+        width: 70px;
+    }
+
+    select.w-100 {
+        margin-left: -12px!important;
+        width: 115%!important;
+        height: 30%!important;
+    }
+
+    input.sks {
+        margin-left: -12px!important;
+        width: 115%!important;
+        height: 30%!important;
+        margin-bottom: 10px;
+    }
+
+    input.proof {
+        margin-left: -12px!important;
+        width: 115%!important;
+        height: 30%!important;
+        margin-bottom: 10px;
+    }
+
+    label {
+        margin-left: -11px!important;
+    }
+
+    .form-label.mt-1 {
+        margin-left: -10px!important;
+        font-size: 12px!important;
+    }
+
+    .form-label {
+        font-size: 13px;
+    }
+
+    hr.w-75 {
+        width: 98%!important;
+        margin-left: 0px!important;
+    }
+
+    .btn.btn-add-row1 {
+        margin-left: 483px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row2 {
+        margin-left: 483px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row3 {
+        margin-left: 483px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row4 {
+        margin-left: 483px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn {
+        font-size: 12px;
+        width: 130px;
+        height: 40px;
+    }
+
+    .bi {
+        margin-right: 3px;
+        margin-left: -8px!important;
+    }
+
+    canvas#sign-dosen, canvas#sign-kaprodi, canvas#sign-asesor1, canvas#sign-asesor2 {
+        width: 285px;
+        height: 146px;
+        margin-left: -10px;
+    }
+
+    .fa.fa-refresh {
+        font-size: 24px!important;
+        margin-left: -310px!important;
+    }
+
+    .select {
+        margin-left: -11px;
+        width: 285px;
+    }
+
+    div.validasi {
+        overflow: hidden;
+        padding-right: 38px;
+    }
+}
+
+
+
+@media only screen and (max-width:900px) {
+    img.logo {
+        position: relative;
+        margin-left: 15px;
+        width: 260px;
+        height: auto;
+    }
+
+    .navbar-toggler {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    .menu-item {
+        margin-right: 10px;
+    }
+
+    .menu-toggle {
+        font-size: 13px;
+    }
+
+    .dropdown-menu {
+        font-size: 13px;
+    }
+
+    .ms-4 {
+        margin-left: 3rem!important;
+    }
+
+    div.ms-4.tabs__sidebar {
+        margin-left: 2.3rem!important;
+    }
+
+    button.w-100 {
+        width: 110%!important;
+        color: #404040;
+        font-size: 12px;
+        height: 40px;
+    }
+
+    .title1 {
+        margin-top: 15px!important;
+        margin-left: 47px;
+        font-size: 23px
+    }
+
+    .col-md-12.border {
+        margin-top: 2px;
+        margin-left: 7px;
+        width: 570px;
+    }
+
+    .title2 {
+        font-size: 23px;
+        margin-left: 8px!important;
+    }
+
+    input.w-100 {
+        margin-left: -12px!important;
+        margin-top: 20px;
+        width: 122%!important;
+        height: 25%!important;
+    }
+
+    div.w-100 {
+        margin-left: -12px!important;
+        margin-top: 28px!important;
+        width: 122%!important;
+        height: 25%!important;
+    }
+
+    span.ms-2 {
+        margin-top: 1px;
+        margin-left: 15px!important;
+        width: 70px;
+    }
+
+    select.w-100 {
+        margin-left: -12px!important;
+        margin-top: 20px;
+        width: 122%!important;
+        height: 25%!important;
+    }
+
+    input.sks {
+        margin-left: -12px!important;
+        margin-top: 20px;
+        width: 122%!important;
+        height: 25%!important;
+        margin-bottom: 10px;
+    }
+
+    input.proof {
+        margin-left: -12px!important;
+        margin-top: 20px;
+        width: 122%!important;
+        height: 25%!important;
+        margin-bottom: 10px;
+    }
+
+    label {
+        margin-left: -11px!important;
+    }
+
+    .form-label.mt-1 {
+        margin-left: -10px!important;
+        font-size: 10px!important;
+    }
+
+    .form-label {
+        font-size: 12px;
+    }
+
+    hr.w-75 {
+        width: 98%!important;
+        margin-left: 0px!important;
+    }
+
+    .btn.btn-add-row1 {
+        margin-left: 415px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row2 {
+        margin-left: 415px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row3 {
+        margin-left: 415px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row4 {
+        margin-left: 415px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn {
+        font-size: 11px;
+        width: 120px;
+        height: 35px;
+    }
+
+    .bi {
+        margin-right: 3px;
+        margin-left: -8px!important;
+    }
+
+    canvas#sign-dosen, canvas#sign-kaprodi, canvas#sign-asesor1, canvas#sign-asesor2 {
+        width: 252px;
+        height: 146px;
+        margin-left: -10px;
+    }
+
+    .fa.fa-refresh {
+        font-size: 24px!important;
+        margin-left: -305px!important;
+    }
+
+    .select {
+        margin-left: -11px;
+        width: 253px;
+    }
+
+    div.validasi {
+        overflow: hidden;
+        padding-right: 38px;
+    }
+
+    
+}
+
+@media only screen and (max-width:700px) {
+    img.logo {
+        position: relative;
+        margin-left: 0px;
+        width: 200px;
+        height: auto;
+    }
+
+    .navbar-toggler {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    .menu-toggle {
+        font-size: 13px;
+    }
+
+    .dropdown-menu {
+        font-size: 13px;
+        background-color: #15551f;
+        border: none;
+    }
+
+    .dropdown-item {
+        color: white;
+    }
+
+    .ms-4 {
+        margin-left: 3rem!important;
+    }
+
+    div.ms-4.tabs__sidebar {
+        margin-left: 3.1rem!important;
+    }
+
+    button.w-100 {
+        width: 80%!important;
+        color: #404040;
+        font-size: 12px;
+        height: 33px;
+    }
+
+    .title1 {
+        margin-top: 25px!important;
+        margin-left: 115px;
+        font-size: 20px
+    }
+
+    .col-md-12.border {
+        margin-top: 40px;
+        width: 447px;
+        margin-left: 1px!important;
+    }
+
+    .title2 {
+        font-size: 20px;
+        margin-left: 8px!important;
+    }
+
+    input.w-100 {
+        margin-left: -12px!important;
+        margin-top: 5px;
+        width: 104%!important;
+        height: 40%!important;
+    }
+
+    span.ms-2 {
+        margin-top: 6px;
+        margin-left: 7px!important;
+        width: 70px;
+    }
+
+    div.w-100 {
+        margin-left: -12px!important;
+        margin-top: 10px!important;
+        width: 104%!important;
+        height: 40%!important;
+    }
+
+    select.w-100 {
+        margin-left: -12px!important;
+        margin-top: 5px;
+        width: 104%!important;
+        height: 40%!important;
+    }
+
+    input.sks {
+        margin-left: -12px!important;
+        margin-top: 5px;
+        width: 104%!important;
+        height: 53%!important;
+        margin-bottom: 10px;
+    }
+
+    input.proof {
+        margin-left: -12px!important;
+        margin-top: 5px;
+        width: 104%!important;
+        height: 53%!important;
+        margin-bottom: 10px;
+    }
+
+    label {
+        margin-left: -11px!important;
+    }
+
+    .form-label.mt-1 {
+        margin-left: -10px!important;
+        font-size: 11px!important;
+    }
+
+    .form {
+        margin-top: 10px;
+    }
+
+    .form-label {
+        font-size: 13px;
+    }
+
+    hr.w-75 {
+        width: 98%!important;
+        margin-left: 0px!important;
+    }
+
+    .btn.btn-add-row1 {
+        margin-left: 295px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row2 {
+        margin-left: 295px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row3 {
+        margin-left: 295px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row4 {
+        margin-left: 295px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn {
+        font-size: 11px;
+        width: 120px;
+        height: 35px;
+    }
+
+    .bi {
+        margin-right: 3px;
+        margin-left: -8px!important;
+    }
+
+    canvas#sign-dosen, canvas#sign-kaprodi, canvas#sign-asesor1, canvas#sign-asesor2 {
+        width: 409px;
+        height: 146px;
+        margin-left: -10px;
+    }
+
+    .fa.fa-refresh {
+        font-size: 24px!important;
+        margin-left: -10px!important;
+    }
+
+    .select {
+        margin-left: -11px;
+        width: 413px;
+    }
+
+    .asesor2 {
+        margin-top: 10px;
+    }
+
+    .semester {
+        margin-top: -15px;
+    }
+
+    div.validasi {
+        overflow: hidden;
+        padding-right: 38px;
+    }
+}
+
+@media only screen and (max-width:370px) {
+    img.logo {
+        position: relative;
+        margin-left: 0px;
+        width: 200px;
+        height: auto;
+    }
+
+    .navbar-toggler {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    .menu-toggle {
+        font-size: 13px;
+    }
+
+    .dropdown-menu {
+        font-size: 13px;
+        background-color: #15551f;
+        border: none;
+    }
+
+    .dropdown-item {
+        color: white;
+    }
+
+    .ms-4 {
+        margin-left: 2.2rem!important;
+    }
+
+    div.ms-4.tabs__sidebar {
+        margin-left: 2.3rem!important;
+    }
+
+    button.w-100 {
+        width: 80%!important;
+        color: #404040;
+        font-size: 11px;
+        height: 30px;
+    }
+
+    .title1 {
+        margin-top: 20px!important;
+        margin-left: 85px;
+        font-size: 17px
+    }
+
+    .col-md-12.border {
+        margin-top: 40px;
+        width: 347px;
+        margin-left: -5px!important;
+    }
+
+    .title2 {
+        font-size: 17px;
+        margin-left: 5px!important;
+    }
+
+    input.w-100 {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 35%!important;
+    }
+
+    div.w-100 {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 37%!important;
+    }
+
+    span.ms-2 {
+        margin-left: 7px!important;
+        font-size: 11px;
+        width: 65px;
+    }
+
+    select.w-100 {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 35%!important;
+    }
+
+    input.sks {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 45%!important;
+        margin-bottom: 10px;
+    }
+
+    input.proof {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 45%!important;
+        margin-bottom: 10px;
+    }
+
+    label {
+        margin-left: -12px!important;
+    }
+
+    .form-label.mt-1 {
+        margin-left: -10px!important;
+        font-size: 11px!important;
+    }
+
+    .form {
+        margin-top: 10px;
+    }
+
+    .form-label {
+        font-size: 12.5px;
+    }
+
+    hr.w-75 {
+        width: 98%!important;
+        margin-left: 0px!important;
+    }
+
+    .btn.btn-add-row1 {
+        margin-left: 195px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row2 {
+        margin-left: 195px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row3 {
+        margin-left: 195px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row4 {
+        margin-left: 195px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn {
+        font-size: 11px;
+        width: 120px;
+        height: 35px;
+    }
+
+    .bi {
+        margin-right: 3px;
+        margin-left: -8px!important;
+    }
+
+    .select {
+        width: 275px ;
+        margin-top: 1px;
+    }
+
+    canvas#sign-dosen, canvas#sign-kaprodi, canvas#sign-asesor1, canvas#sign-asesor2 {
+        width: 312px;
+        height: 146px;
+        margin-left: -12px;
+    }
+
+    .fa.fa-refresh {
+        font-size: 24px!important;
+        margin-left: -190px!important;
+    }
+
+    .select {
+        margin-left: -12px;
+        width: 313px;
+    }
+
+    .asesor2 {
+        margin-top: 10px;
+    }
+
+    .semester {
+        margin-top: -15px;
+    }
+
+    div.validasi {
+        overflow: hidden;
+        padding-right: 38px;
+    }
+
+}
+
+@media only screen and (max-width:360px) {
+    img.logo {
+        position: relative;
+        margin-left: 0px;
+        width: 200px;
+        height: auto;
+    }
+
+    .navbar-toggler {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    .menu-toggle {
+        font-size: 13px;
+    }
+
+    .dropdown-menu {
+        font-size: 13px;
+        background-color: #15551f;
+        border: none;
+    }
+
+    .dropdown-item {
+        color: white;
+    }
+
+    .ms-4 {
+        margin-left: 2.2rem!important;
+    }
+
+    div.ms-4.tabs__sidebar {
+        margin-left: 2.3rem!important;
+    }
+
+    button.w-100 {
+        width: 80%!important;
+        color: #404040;
+        font-size: 11px;
+        height: 30px;
+    }
+
+    .title1 {
+        margin-top: 20px!important;
+        margin-left: 77px;
+        font-size: 17px
+    }
+
+    .col-md-12.border {
+        margin-top: 40px;
+        width: 347px;
+        margin-left: -5px!important;
+    }
+
+    .title2 {
+        font-size: 17px;
+        margin-left: 5px!important;
+    }
+
+    input.w-100 {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 35%!important;
+    }
+
+    div.w-100 {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 37%!important;
+    }
+
+    span.ms-2 {
+        margin-left: 7px!important;
+        font-size: 11px;
+        width: 65px;
+    }
+
+    select.w-100 {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 35%!important;
+    }
+
+    input.sks {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 45%!important;
+        margin-bottom: 10px;
+    }
+
+    input.proof {
+        margin-left: -12px!important;
+        width: 106%!important;
+        height: 45%!important;
+        margin-bottom: 10px;
+    }
+
+    label {
+        margin-left: -12px!important;
+    }
+
+    .form-label.mt-1 {
+        margin-left: -10px!important;
+        font-size: 11px!important;
+    }
+
+    .form {
+        margin-top: 10px;
+    }
+
+    .form-label {
+        font-size: 12.5px;
+    }
+
+    hr.w-75 {
+        width: 98%!important;
+        margin-left: 0px!important;
+    }
+
+    .btn.btn-add-row1 {
+        margin-left: 195px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row2 {
+        margin-left: 195px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row3 {
+        margin-left: 195px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn.btn-add-row4 {
+        margin-left: 195px;
+        margin-top: 0px!important;
+        margin-bottom: 35px!important;
+        margin-top: 7px;
+    }
+
+    .btn {
+        font-size: 11px;
+        width: 120px;
+        height: 35px;
+    }
+
+    .bi {
+        margin-right: 3px;
+        margin-left: -8px!important;
+    }
+
+    .select {
+        width: 275px ;
+        margin-top: 1px;
+    }
+
+    canvas#sign-dosen, canvas#sign-kaprodi, canvas#sign-asesor1, canvas#sign-asesor2 {
+        width: 312px;
+        height: 146px;
+        margin-left: -12px;
+    }
+
+    .fa.fa-refresh {
+        font-size: 24px!important;
+        margin-left: -190px!important;
+    }
+
+    .select {
+        margin-left: -12px;
+        width: 313px;
+    }
+
+    .asesor2 {
+        margin-top: 10px;
+    }
+
+    .semester {
+        margin-top: -15px;
+    }
+
+    div.validasi {
+        overflow: hidden;
+        padding-right: 38px;
+    }
+
+}
+
+
+
+
